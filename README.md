@@ -35,7 +35,7 @@ Check my repos to see what I'm working on right now 👇
 
 #### 📫 How to reach me
 
-Best way: DM on X or open an Issue on a repo.
+Best way: DM on X [x.com/Eidan_Dev] or open an Issue on a repo.
 I'm open to collaborating with other builders who SHIP.
 
 ---
