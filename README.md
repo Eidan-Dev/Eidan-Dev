@@ -20,7 +20,7 @@ I'm 13. Building my way from France to Miami . Documenting everything in public.
 
 Learning fast. Shipping faster.
 
-#### 🗺️ Roadmap: France → Miami
+#### 🗺️ Roadmap: France → USA
 
 - [x] Started building in public at 13
 - [ ] Ship 10 tools in public
