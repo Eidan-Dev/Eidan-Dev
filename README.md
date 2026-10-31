@@ -1,9 +1,10 @@
-### 13yo builder | France → USA | Shipping global tech tools — finance-first in public 🚀
+13yo builder | France -> USA | Building open-source dev tools & utilities 🚀
 
-I build tools I wish existed. Focused on tech, finance-first.
+I build minimal, fast, and reliable tools. Focused on clean architecture and high-performance code.
 
-I'm 13. Building my way from France to USA . Documenting everything in public.
-
+⚙️ What I'm Shipping
+• Dev Tools: CLI utilities, automation scripts, and workflow boosters.
+• Open Source: Building in public, writing clean code, and learning in English.
 ---
 
 #### 🚀 What I'm Shipping
