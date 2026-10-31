@@ -2,7 +2,7 @@
 
 I build tools I wish existed. Focused on tech, finance-first.
 
-I'm 13. Building my way from France to Miami . Documenting everything in public.
+I'm 13. Building my way from France to USA . Documenting everything in public.
 
 ---
 
