@@ -9,7 +9,7 @@ I build minimal, fast, and reliable tools. Focused on clean architecture and hig
 
 #### 🚀 What I'm Shipping
 
-**Currently building:** Global tech tools that solve real problems. Finance is my first playground.
+**Currently building:** Global tech tools that solve real problems. 
 
 - **Finance Tools:** Dashboards, trackers, SaaS that touches money
 - **Tech Tools:** Cloners, automations, utilities for builders
