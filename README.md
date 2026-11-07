@@ -24,9 +24,9 @@ Learning fast. Shipping faster.
 #### 🗺️ Roadmap: France → USA
 
 - [x] Started building in public at 13
-- [x] Ship 10 tools in public
-- [x] Get first $1k MRR
-- [x] Build a network in the USA
+- [ ] Ship 10 tools in public
+- [ ] Get first $1k MRR
+- [ ] Build a network in the USA
 
 #### 📈 Building in Public
 
